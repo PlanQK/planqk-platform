@@ -1,4 +1,4 @@
-# Issue Repository of the PlanQK-Platform
+# Issue Repository der PlanQK-Plattform
 
 ## Weiterführende Dokumente
 
