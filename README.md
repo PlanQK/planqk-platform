@@ -1,5 +1,7 @@
 # Issue Repository der PlanQK-Plattform
 
+Bitte beachten: Wir unterstüzen derzeit **Chromium-basierte Browser** (also z.B. Google Chrome, aktueller Microsoft Edge, Chromium) und **Safari**. Sollten UX Probleme bei anderen Browsern auftreten werden wir diese wenn möglich berücksichtigen, Priorität haben aber die genannten Browser.
+
 ## Weiterführende Dokumente
 
 - [Anforderungsanalyse Plattform](https://docs.google.com/spreadsheets/d/1DS1XIOkpa6q52ORiN4nt06i26NhK1914Y82UZllWBi0/edit?usp=sharing): Liste der in der Analysephase erhobenen Anforderungen
