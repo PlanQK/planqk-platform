@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**General Description**
+**Current Behavior**
 A clear and concise description of what the bug is.
 
 **Steps to Reproduce**
