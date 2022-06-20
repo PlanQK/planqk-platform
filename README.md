@@ -1,8 +1,22 @@
-# Issue Repository der PlanQK-Plattform
+# PlanQK-Plattform Issue Repository 
 
-Bitte beachten: Wir unterstüzen derzeit **Chromium-basierte Browser** (also z.B. Google Chrome, aktueller Microsoft Edge, Chromium) und **Safari**. Sollten UX Probleme bei anderen Browsern auftreten werden wir diese wenn möglich berücksichtigen, Priorität haben aber die genannten Browser.
+## Documentation
 
-## Weiterführende Dokumente
+[Get started with PlanQK](https://docs.platform.planqk.de)
 
-- [Anforderungsanalyse Plattform](https://docs.google.com/spreadsheets/d/1DS1XIOkpa6q52ORiN4nt06i26NhK1914Y82UZllWBi0/edit?usp=sharing): Liste der in der Analysephase erhobenen Anforderungen
-- [Anforderungsanalyse Analyse QC-Algos](https://docs.google.com/document/d/1LBHq9NRSr5suxeerWkFK2vl-dxjCg0Bjqa-1rCM7ZkI/edit?usp=sharing): Hier stehen die bisher gesammelten Informationen über betrachtete Algos
+## Got a Question, Feedback, or Problem?
+
+Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests.
+Instead, we recommend using our [Slack Support Channel](https://planqk-platform.slack.com/archives/C03HLMQBSSG) to ask support-related questions. 
+Just join our [Slack Workspace](https://join.slack.com/t/planqk-platform/shared_invite/zt-1b4899wqr-xqOYLSCr8KqYkREi251NxQ).
+
+## Found an Bug?
+
+If you find an bug in our system, you can help us by [submitting an issue](https://github.com/PlanQK/platform/issues) to our public [GitHub Repository](https://github.com/PlanQK/platform).
+
+## Missing a Feature?
+
+You can request a new feature by [submitting an issue](https://github.com/PlanQK/platform/issues) to our public [GitHub Repository](https://github.com/PlanQK/platform).
+
+Open a new issue and outline your proposal so that it can be discussed.
+This allows us to better coordinate our efforts and to prevent duplication of work so that it can be successfully added to our roadmap.
