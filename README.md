@@ -1,4 +1,4 @@
-# PlanQK-Plattform Issue Repository 
+# PlanQK Platform Issue Repository 
 
 ## Documentation
 
