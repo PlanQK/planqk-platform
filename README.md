@@ -4,7 +4,7 @@
 
 [Get started with PlanQK](https://docs.platform.planqk.de)
 
-## Got a Question, Feedback, or Problem?
+## Got a Question or Problem?
 
 Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests.
 Instead, we recommend using our [Slack Support Channel](https://planqk-platform.slack.com/archives/C03HLMQBSSG) to ask support-related questions. 
